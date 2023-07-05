@@ -6,6 +6,10 @@ h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 50px;
 }
+h4{
+    color: blueviolet;
+    text-transform: uppercase;
+}
 
 .header{
     height: 400px;
@@ -20,11 +24,11 @@ h1{
 div{
     margin: 2%;
     background-color:azure;
-    
 }
 
 .blog{
-    border: 20px solid rgb(66, 64, 64);
+    padding: 2%;
+    border: 10px solid rgb(66, 64, 64);
     box-shadow: 10px 10px 10px rgba(73, 69, 77, 0.458);
 }
 .inline{
