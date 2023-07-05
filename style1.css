@@ -1,0 +1,47 @@
+body{
+    
+    background-color: rgb(187, 209, 247);
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+.header{
+    height: 400px;
+    background-image: url('pexels-pixabay-355747.jpg');
+    background-repeat: no-repeat;
+    background-size: 1520px 500px;
+    margin: 2%;
+    padding:2%;
+    box-shadow: 10px 10px 10px rgba(73, 69, 77, 0.458);
+    background-repeat: no-repeat;
+}
+div{
+    margin: 2%;
+    background-color:azure;
+    
+}
+
+.blog{
+    border: 20px solid rgb(66, 64, 64);
+    box-shadow: 10px 10px 10px rgba(73, 69, 77, 0.458);
+}
+.inline{
+    display: flex;
+    justify-content:space-around;
+}
+.btn{
+    background-color: rgba(3, 140, 140, 0.481);
+    font-weight: bold;
+    width: 460px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
+#inline{
+    border: 2px dotted rgb(4, 59, 4);
+    display: inline;
+    /* display: inline-block; */
+    height: 30px;
+}
